@@ -2,7 +2,7 @@ Welcome to the Central Washington University Visual Knowledge Discovery Lab, led
 
 This GitHub organization contains research projects conducted by students under the guidance of Dr. Boris Kovalerchuk, contributing to the field of high-dimensional data visualization and machine learning techniques for identifying complex n-D data patterns.  
 
-## Issue Reporting
+### Issue Reporting
 
 If you encounter any issues with our projects, please submit an issue report directly on the relevant project's GitHub page, ideally include:
 
@@ -11,7 +11,7 @@ If you encounter any issues with our projects, please submit an issue report dir
 - Resultant behavior and expected behavior
 - Steps to reproduce the issue, if possible
 
-## Licensing
+### Licensing
 
 All projects in this organization are available under the MIT License, allowing for both personal and commercial use.  
 For the full license text, please refer to the LICENSE file in each project repository.
