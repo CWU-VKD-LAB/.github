@@ -6,9 +6,7 @@ This GitHub organization contains research projects conducted by students under 
 
 ## Issue Reporting
 
-If you encounter any issues within our projects, please submit an issue report directly on the relevant project's GitHub page.  
-
-Your report should ideally include:
+If you encounter any issues with our projects, please submit an issue report directly on the relevant project's GitHub page, ideally include:
 
 - Environment details (OS, software version, language used version)
 - A detailed description of the issue
