@@ -1,12 +1,11 @@
-## Hi there 👋
+# CWU-VKD-LAB
 
-<!--
+Central Washington University Visual Knowledge Discovery Lab lead by Dr. Boris Kovalerchuk.  
 
-**Here are some ideas to get you started:**
+## Issue Reporting
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Please submit issues to projects which encounter problems with a description of what happened to cause the issue.  
+
+## Licensing
+
+All projects available under the MIT license.  
