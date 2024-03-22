@@ -13,5 +13,4 @@ If you encounter any issues with our projects, please submit an issue report dir
 
 ### Licensing
 
-All projects in this organization are available under the MIT License, allowing for both personal and commercial use.  
-For the full license text, please refer to the LICENSE file in each project repository.
+All projects in this organization are available under the MIT License, allowing for both personal and commercial use. For the full license text, please refer to the LICENSE file in each project repository.
