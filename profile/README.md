@@ -10,7 +10,7 @@ This GitHub organization contains research projects conducted by students under 
 
 | Program Name  | Task Addressed | General Line Coordinate Type | Repository Link |
 |---------------|----------------|-------------------------------|-----------------|
-| VisCanvas 2.0 | Visualization software for nD data plotting and analysis | Parallel Coordinates | [Link](https://github.com/CWU-VKD-LAB/VisCanvas2.0) |
+| VisCanvas 2.0 | Visualization software for n-D data plotting and analysis | Parallel Coordinates | [Link](https://github.com/CWU-VKD-LAB/VisCanvas2.0) |
 | DV            | This application displays n-Dimensional data in 2D using GLC-L coordinates. | GLC-L | [Link](https://github.com/CWU-VKD-LAB/DV) |
 | Moeka         | When there is no training data and we perform expert interview to build model. | Hansel Chain Visualization | [Link](https://github.com/CWU-VKD-LAB/MOEKAVisualization) |
 | DCVis         | Build visual machine learning models with multidimensional general line coordinate visualizations by interactive classification and synthetic data generation tools. | Parallel Coordinates, Adjusted Parallel Coordinates, Shifted Paired Coordinates, Dynamic Scaffold Coordinates 1 & 2, Static Circle Coordinates, Dynamic Circle Coordinates | [Link](https://github.com/CWU-VKD-LAB/DCVis) |
