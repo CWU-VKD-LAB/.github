@@ -16,6 +16,7 @@ This GitHub organization contains research projects conducted by students under 
 | DCVis         | Build visual machine learning models with multidimensional general line coordinate visualizations by interactive classification and synthetic data generation tools. | Parallel Coordinates, Shifted Paired Coordinates, Dynamic Scaffold Coordinates 1 & 2, Static Circle Coordinates, Dynamic Circle Coordinates | [Link](https://github.com/CWU-VKD-LAB/DCVis) |
 | JTabViz       | Multiplatform interactive computational data analysis tool to build visual machine learning models from General Line Coordinate multidimensional lossless visualizations. | Parallel Coordinates, Shifted Paired Coordinates, Static/Dynamic Circle/poylgon Coordinates, Freeform Circle Coordinates, Radial/Star Coordinates, Concentric Coordinates, In-Line Coordinates | [Link](https://github.com/CWU-VKD-LAB/JTabViz) |
 | SPC-DT        | Visualizes decision trees using shifted paired coordinates. | SPC Decision Tree | [Link](https://github.com/CWU-VKD-LAB/SPC-DT) |
+| SPC-SF        | Hybrid bird glyph visualization. | SPC Glyph | [Link](https://github.com/CWU-VKD-LAB/SPC_SF_Data_Glyph)
 | SPC-3D        | A 3D shifted pair coordinates program. | SPC 3D | [Link](https://github.com/CWU-VKD-LAB/SPC-3D) |
 
 **(This chart is a work in progress.)**
