@@ -23,7 +23,7 @@ This GitHub organization contains research projects conducted by students under 
 | DV            | Previous DV version. | GLC-L | [Link](https://github.com/CWU-VKD-LAB/DV1.0) |
 
 
-**(This chart is a work in progress, to our lab members, please feel free to update with your own work.)**
+**(This chart is a work in progress, to our lab contributors, please feel free to update with your own work.)**
 
 ### Issue Reporting
 
