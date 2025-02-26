@@ -20,7 +20,7 @@ This GitHub organization contains research projects conducted by students under 
 | SPC-DT        | Visualizes decision trees using paired GLCs. | SPC Decision Tree | [Link](https://github.com/CWU-VKD-LAB/SPC-DT) |
 | SPC-SF        | Hybrid bird glyph visualization. | SPC Glyph | [Link](https://github.com/CWU-VKD-LAB/SPC_SF_Data_Glyph)
 | SPC-3D        | A 3D shifted pair coordinates program. | SPC 3D | [Link](https://github.com/CWU-VKD-LAB/SPC-3D) |
-| DV            | Original DV version. | GLC-L | [Link](https://github.com/CWU-VKD-LAB/DV1.0) |
+| DV            | Previous DV version. | GLC-L | [Link](https://github.com/CWU-VKD-LAB/DV1.0) |
 
 
 **(This chart is a work in progress.)**
