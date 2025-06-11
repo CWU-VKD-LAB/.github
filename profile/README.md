@@ -2,7 +2,7 @@
 
 Welcome to the **Visual Knowledge Discovery and Imaging Lab (VKD Lab)**, directed by Dr. Boris Kovalerchuk. We are part of the Department of Computer Science in the College of the Sciences at Central Washington University.
 
-Our research explores **Visual Knowledge Discovery (VKD)** and **interpretable Machine Learning (ML)** through visual paradigms. We build on foundational works such as Dr. Kovalerchuk’s *Visual Knowledge Discovery and Machine Learning* (2018), emphasizing *General Line Coordinates (GLC)*—including Parallel, Radial, and newer hybrid coordinate systems—for multidimensional, lossless data visualization. Our contributions span theory, interactive software systems, and student-assisted publications.
+Our research explores **Visual Knowledge Discovery (VKD)** and **interpretable Machine Learning (ML)** through visual paradigms. We build on foundational works such as Dr. Kovalerchuk’s *Visual Knowledge Discovery and Machine Learning* (2018), emphasizing *General Line Coordinates (GLC)* including Parallel, Radial, and newer task-specific coordinate systems for multidimensional, lossless data visualization, and visual computation.
 
 This GitHub organization hosts projects developed by students under Dr. Kovalerchuk’s mentorship, focused on high-dimensional data visualization and the development of interpretable machine learning methods. For related publications, see [Dr. Kovalerchuk’s site](https://borisk.dreamhosters.com/public_html/).
 
