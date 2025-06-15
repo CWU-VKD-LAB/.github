@@ -21,7 +21,7 @@ This GitHub organization hosts projects developed by students under Dr. Kovalerc
 | SPC-SF        | Hybrid bird glyph visualization. | SPC Glyph | [Link](https://github.com/CWU-VKD-LAB/SPC_SF_Data_Glyph)
 | SPC-3D        | A 3D shifted pair coordinates program. | SPC 3D | [Link](https://github.com/CWU-VKD-LAB/SPC-3D) |
 | DV            | Previous DV version. | GLC-L | [Link](https://github.com/CWU-VKD-LAB/DV1.0) |
-| HB CUDA       | High-performance generation of Hyperblocks (HBs) using CUDA GPU accelerations.  | N/A (Computing Only) | [Link](https://github.com/CWU-VKD-LAB/DV1.0](https://github.com/CWU-VKD-LAB/HB_CUDA) |
+| HB CUDA       | High-performance generation of Hyperblocks (HBs) using CUDA GPU accelerations.  | N/A (Computing Only) | [Link](https://github.com/CWU-VKD-LAB/HB_CUDA) |
 
 **(This chart is a work in progress, to our lab contributors, please feel free to update with your own work.)**
 
